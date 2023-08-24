@@ -1,0 +1,32 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "name": "O Senhor dos Aneis",
+      "gender": "Aventura",
+      "favorit": 0,
+      "image_url": "https://musicart.xboxlive.com/7/308f5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+    },
+    {
+      "id": 2,
+      "name": "Clube da Luta",
+      "gender": "Acao",
+      "favorit": 0,
+      "image_url": "https://br.web.img3.acsta.net/medias/nmedia/18/90/95/96/20122166.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pain and Gain",
+      "favorit": 1,
+      "gender": "Acao",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Harry Potter",
+      "gender": "Aventura",
+      "favorit": 0,
+      "image_url": "https://musicart.xboxlive.com/7/93e05000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+    }
+  ]
+}
